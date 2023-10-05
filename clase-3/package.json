@@ -1,0 +1,27 @@
+{
+  "author": "Elias Gabriel Ojeda Morales",
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.18.2",
+    "zod": "3.22.2"
+  },
+  "description": "Es la tercer clase",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "Rest-api"
+  ],
+  "license": "ISC",
+  "main": "app.js",
+  "name": "clase-3",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "version": "1.0.0"
+}
